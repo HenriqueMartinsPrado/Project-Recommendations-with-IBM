@@ -37,9 +37,7 @@ Beisdes, only to complement, I developed the project using python version 3.8.5.
 
 ## 2. Project Motivation<a name="motivation"></a>
 
-<p align="justify">The development of this project aimed to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they will like and also shows the articles that are most pertinent to a specific user. In order to determine which articles to show to each user, I performed a study of the data available on the IBM Watson Studio platform.
-
-.</p>
+<p align="justify">The development of this project aimed to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they will like and also shows the articles that are most pertinent to a specific user. In order to determine which articles to show to each user, I performed a study of the data available on the IBM Watson Studio platform.</p>
 
 ## 3. File Descriptions<a name="files"></a>
 
